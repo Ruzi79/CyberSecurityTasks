@@ -9,5 +9,5 @@ Files
 ![image](https://github.com/user-attachments/assets/87883c1e-e549-4fba-966c-533dba656b64)
 Chown
 ![image](https://github.com/user-attachments/assets/fcd4a316-9511-4c03-a96e-a34213bff118)
-Permissions
+Chmod
 ![image](https://github.com/user-attachments/assets/f8dd71c8-fbf3-40e5-ab42-9b51dbbfad61)
